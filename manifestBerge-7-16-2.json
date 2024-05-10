@@ -7,6 +7,15 @@
       "Berge - 1 - Come To Me (O Salutaris)"
     ]
   },
+    "thumbnail": [
+    {
+      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/7/thumbnail_d/",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 90,
+      "width": 67
+    }
+  ],
   "items": [
     {
       "id": "/config/manifest-templates/blank.json/canvas/b2828ea9-03d2-4133-b90e-caf1c103684b",
