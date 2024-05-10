@@ -1,0 +1,474 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "/config/manifest-templates/blank.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Berge - 2 - Festival Te Deum"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/17/thumbnail_d/",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 90,
+      "width": 67
+    }
+  ],
+  "items": [
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/bd3cdc13-39fc-4622-81a0-ab61f1282f3a",
+      "type": "Canvas",
+      "height": 2018,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/bd3cdc13-39fc-4622-81a0-ab61f1282f3a/annotation-page/371ffd0e-0a3c-4d84-abd5-140db5641337",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/canvas/bd3cdc13-39fc-4622-81a0-ab61f1282f3a/annotation-page/371ffd0e-0a3c-4d84-abd5-140db5641337/annotation/8c8cfd7d-dda2-4689-b86b-c6ca64dbf16f",
+              "type": "Annotation",
+              "label": {
+                "en": [
+                  "Berge - 2 - Festival Te Deum - 1"
+                ]
+              },
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/bd3cdc13-39fc-4622-81a0-ab61f1282f3a",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/17/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2018,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/7eba7b9c-8a16-4ce8-bb75-089f77965872",
+      "type": "Canvas",
+      "height": 1976,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/7eba7b9c-8a16-4ce8-bb75-089f77965872/annotation-page/ea009c56-f8b5-438a-94a9-9ee48d42a96c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/145e0f3c-23e9-4f0f-86ce-233fd3cee99a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/7eba7b9c-8a16-4ce8-bb75-089f77965872",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/18/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1976,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/caa26c02-b40d-4ab5-b901-ce24fcd33f18",
+      "type": "Canvas",
+      "height": 1994,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/caa26c02-b40d-4ab5-b901-ce24fcd33f18/annotation-page/d6422d18-e190-4dcd-8a46-440c88f5669b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/067a21af-f1f8-42b7-86ee-6f6f6f28baee",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/caa26c02-b40d-4ab5-b901-ce24fcd33f18",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/19/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1994,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/f43b927e-bd45-4324-a8e8-771217bda6ff",
+      "type": "Canvas",
+      "height": 1964,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/f43b927e-bd45-4324-a8e8-771217bda6ff/annotation-page/0f31693d-3236-43d6-9f33-c11009e0033d",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/3ea4ccac-c5ed-4fa9-9f9b-73be5cfc1c86",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/f43b927e-bd45-4324-a8e8-771217bda6ff",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/20/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1964,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/5772c99f-ae93-4dda-a816-edb0abf5f620",
+      "type": "Canvas",
+      "height": 1981,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 5"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/5772c99f-ae93-4dda-a816-edb0abf5f620/annotation-page/67439d54-b7c4-4894-b323-a6b4ad3f8c97",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/e518303b-6a08-4b53-b2c7-13095dd10e7a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/5772c99f-ae93-4dda-a816-edb0abf5f620",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/21/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1981,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/21f87871-bacc-4bc3-a87c-af02bdb33dc1",
+      "type": "Canvas",
+      "height": 1969,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 6"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/21f87871-bacc-4bc3-a87c-af02bdb33dc1/annotation-page/eca525f8-09ca-4308-9b0e-e6238b25b06b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/1467fb29-7944-433d-b516-4c11a2b3eb2f",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/21f87871-bacc-4bc3-a87c-af02bdb33dc1",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/22/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1969,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/b414f9f8-9332-4899-b5a0-1dbc361ac13d",
+      "type": "Canvas",
+      "height": 1979,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 7"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/b414f9f8-9332-4899-b5a0-1dbc361ac13d/annotation-page/cf5f2dea-ae0b-4d08-a38b-a1afa6a42f06",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/9ff014c8-145d-44d3-9ca3-1a5495280dbe",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/b414f9f8-9332-4899-b5a0-1dbc361ac13d",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/23/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1979,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/0f75458b-9606-4e5a-bf40-1001535f3f68",
+      "type": "Canvas",
+      "height": 1971,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 8"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/0f75458b-9606-4e5a-bf40-1001535f3f68/annotation-page/99a30df3-419d-4371-b320-fc2e1eccd9c1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/5cd138e6-5c98-45c7-aced-13a911a3474d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/0f75458b-9606-4e5a-bf40-1001535f3f68",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/24/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1971,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/20aa1824-1e6c-400a-b54c-bd55b5ef2fd5",
+      "type": "Canvas",
+      "height": 1987,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 9"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/20aa1824-1e6c-400a-b54c-bd55b5ef2fd5/annotation-page/81523561-db65-4809-b731-7a1116c742b7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/8cf29839-9e3b-4087-a806-43df0fec0318",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/20aa1824-1e6c-400a-b54c-bd55b5ef2fd5",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/25/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1987,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/896bb5fc-89a8-4428-88e9-c8574495a75d",
+      "type": "Canvas",
+      "height": 1961,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 10"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/896bb5fc-89a8-4428-88e9-c8574495a75d/annotation-page/64168ada-0efc-4293-965d-d238c147f341",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/2cb14472-12cb-4081-aa60-57be247e6d30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/896bb5fc-89a8-4428-88e9-c8574495a75d",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/26/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1961,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/d4024f7f-b758-4866-a415-37a387a43d07",
+      "type": "Canvas",
+      "height": 1985,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 11"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/d4024f7f-b758-4866-a415-37a387a43d07/annotation-page/09976b8f-0295-49ef-93d9-637f00a07deb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/0987c1dd-9c02-4a51-aaa8-1d45521f91d6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/d4024f7f-b758-4866-a415-37a387a43d07",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/27/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1985,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/fa6ad0c9-98aa-4e65-9d5b-277899adeee5",
+      "type": "Canvas",
+      "height": 1965,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 12"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/fa6ad0c9-98aa-4e65-9d5b-277899adeee5/annotation-page/6287a9b4-b40a-4d14-917a-8ebc0b3f9d6e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/ab1e7952-6b45-455c-8601-1933c01784e4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/fa6ad0c9-98aa-4e65-9d5b-277899adeee5",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/28/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1965,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/1f36b412-24b6-4703-96bc-9eb74428c13f",
+      "type": "Canvas",
+      "height": 1994,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 13"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/1f36b412-24b6-4703-96bc-9eb74428c13f/annotation-page/57760d33-05bb-46c6-b756-42b1b852c3ba",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/9bebc2f4-40a1-4ff2-998b-345db0c9539d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/1f36b412-24b6-4703-96bc-9eb74428c13f",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/29/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1994,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/675108b1-a5c3-4008-8e29-3f8c432ccf67",
+      "type": "Canvas",
+      "height": 1967,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 2 - Festival Te Deum - 14"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/675108b1-a5c3-4008-8e29-3f8c432ccf67/annotation-page/41608970-f5f2-4eb9-acc3-a474aa008dc2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/5e52c734-df85-4035-bfc3-b64a39f5f598",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/675108b1-a5c3-4008-8e29-3f8c432ccf67",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/30/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1967,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
