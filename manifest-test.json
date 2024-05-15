@@ -1,0 +1,56 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "/config/manifest-templates/blank.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Berge - 3 - Crown of Triumph"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/thumbnail_d/",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 90,
+      "width": 67
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
+      "type": "Canvas",
+      "height": 2018,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Berge - 3 - Crown of Triumph - 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
+              "type": "Annotation",
+              "label": {
+                "en": [
+                  "Berge - 3 - Crown of Triumph - 1"
+                ]
+              },
+              "motivation": "painting",
+              "target": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/31/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2018,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
