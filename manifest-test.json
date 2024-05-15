@@ -1,55 +1,733 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "/config/manifest-templates/blank.json",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Berge - 3 - Bonum Est"
-    ]
-  },
-  "thumbnail": [
+  "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/manifest/",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Bound volume of published sheet music",
+  "description": "Bound collection of published sheet music by Louis Bergé, inscribed by him to his son Edward with a date of December 26, 1909. Items in this work are published by Louis Bergé unless otherwise indicated. Where they are provided, dates on individual items range from 1859 through 1888.",
+  "metadata": [
     {
-      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/thumbnail_d/",
-      "type": "Image",
-      "format": "image/jpeg",
-      "height": 90,
-      "width": 67
+      "label": "title",
+      "value": "Bound volume of published sheet music"
+    },
+    {
+      "label": "creator",
+      "value": "Bergé, Louis"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Pittman, Thomas William"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Cooper, George"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Dayton, A.A."
+    },
+    {
+      "label": "contributor.cmp",
+      "value": "Danks, H.P."
+    },
+    {
+      "label": "contributor.cmp",
+      "value": "Mendelssohn-Bartholdy, Felix, 1809-1847"
+    },
+    {
+      "label": "contributor.cmp",
+      "value": "Rossini, Gioacchino, 1792-1868"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Scheible, Miss Catherine"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Walton, A.L., Esq."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Winds, Miss Ella R."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Ascher, Albert"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Stürke, Alwina"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Ferguson, C.C."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Choir of Grace Church, Jersey City"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Herbert, Geo. W., Esq."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Calenberg, H.S."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Shandley, Edward J (Hon.)"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Inwright, John C."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Brown, M. Luther"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Gilligan, Mary Theresa"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Loder, Masters H.D. and A.J."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Thompson, Miss A.A."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Roeder, Miss Carrie"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Phillips, Miss Esther"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Nunnenkamp, Miss Martha"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "O'Neill, Miss Mary"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "O'Neill, Miss Sadie"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Gleason, P[atrick]"
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Eaton, Rev. Charles H, D.D."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Rice, Rev. Dr. Spencer M."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Cuyler, Rev. Dr. Theo."
+    },
+    {
+      "label": "contributor.oth",
+      "value": "Bergé, Theo. M."
+    },
+    {
+      "label": "publisher",
+      "value": "S.T. Gordon & Son"
+    },
+    {
+      "label": "publisher",
+      "value": "C.H. Ditson & Co."
+    },
+    {
+      "label": "publisher",
+      "value": "C.W.A. Trumpler"
+    },
+    {
+      "label": "publisher",
+      "value": "J. Church, Jr."
+    },
+    {
+      "label": "publisher",
+      "value": "J.C. Haynes & Co."
+    },
+    {
+      "label": "publisher",
+      "value": "Oliver Ditson & Co."
+    },
+    {
+      "label": "publisher",
+      "value": "H. Kleber & Bro."
+    },
+    {
+      "label": "publisher",
+      "value": "H.N. Hempsted"
+    },
+    {
+      "label": "publisher",
+      "value": "Wm. A. Pond & Co."
+    },
+    {
+      "label": "publisher",
+      "value": "C. Prox"
+    },
+    {
+      "label": "publisher",
+      "value": "C.Y. Fonda"
+    },
+    {
+      "label": "publisher",
+      "value": "E. Hopkins"
+    },
+    {
+      "label": "publisher",
+      "value": "Firth, Son & Co."
+    },
+    {
+      "label": "publisher",
+      "value": "H.B. Dodworth"
+    },
+    {
+      "label": "publisher",
+      "value": "J.H. Whittemore"
+    },
+    {
+      "label": "publisher",
+      "value": "John J. Daly"
+    },
+    {
+      "label": "publisher",
+      "value": "Lyon & Healy"
+    },
+    {
+      "label": "publisher",
+      "value": "Root & Cady"
+    },
+    {
+      "label": "publisher",
+      "value": "T. Hough"
+    },
+    {
+      "label": "date",
+      "value": "1909"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "description.content",
+      "value": "Bound collection of published sheet music by Louis Bergé, inscribed by him to his son Edward with a date of December 26, 1909. Items in this work are published by Louis Bergé unless otherwise indicated. Where they are provided, dates on individual items range from 1859 through 1888."
+    },
+    {
+      "label": "description.physical",
+      "value": "302 p."
+    },
+    {
+      "label": "subject.KWD",
+      "value": "sheet music"
+    },
+    {
+      "label": "subject.LCGFT",
+      "value": "Notated music"
+    },
+    {
+      "label": "collection",
+      "value": "BERGE"
+    },
+    {
+      "label": "institution",
+      "value": "UNTML"
+    },
+    {
+      "label": "resourceType",
+      "value": "image_score"
+    },
+    {
+      "label": "format",
+      "value": "image"
+    },
+    {
+      "label": "identifier",
+      "value": "berge-01-54"
     }
   ],
-  "items": [
+  "thumbnail": {
+    "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/thumbnail_d/",
+    "@type": "dctypes:Image",
+    "width": 77,
+    "height": 90,
+    "format": "image/jpeg"
+  },
+  "navDate": "1909-01-01T00:00:00Z",
+  "seeAlso": {
+    "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/metadata.untl.xml",
+    "format": "text/xml",
+    "label": "UNTL Descriptive Metadata"
+  },
+  "related": {
+    "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/",
+    "format": "text/html",
+    "label": "HTML page for the resource"
+  },
+  "within": [
+    "https://digital.library.unt.edu/explore/collections/BERGE/top/",
+    "https://digital.library.unt.edu/explore/partners/UNTML/top/"
+  ],
+  "logo": "https://digital.library.unt.edu/media/assets/public/images/dl/iiif/logo.png",
+  "license": "https://digital.library.unt.edu/terms-of-use/",
+  "attribution": "UNT Music Library - UNT Digital Library",
+  "sequences": [
     {
-      "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
-      "type": "Canvas",
-      "height": 2018,
-      "width": 1500,
-      "label": {
-        "en": [
-          "Berge - 3 - Bonum Est - 1"
-        ]
-      },
-      "items": [
+      "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/sequence/",
+      "@type": "sc:Sequence",
+      "canvases": [
+       
         {
-          "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
-          "type": "AnnotationPage",
-          "items": [
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 31",
+          "width": 1500,
+          "height": 2004,
+          "images": [
             {
-              "id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
-              "type": "Annotation",
-              "label": {
-                "en": [
-                  "Berge - 3 - Bonum Est - 1"
-                ]
-              },
-              "motivation": "painting",
-              "body": {
-                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/31/full/full/0/default.jpg",
-                "type": "Image",
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/31/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 2018,
-                "width": 1500
-              }
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/31",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 2004
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/"
             }
-          ]
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 68,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 32",
+          "width": 1500,
+          "height": 1961,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/32/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/32",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1961
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 69,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 33",
+          "width": 1500,
+          "height": 2002,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/33/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/33",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 2002
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 67,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 34",
+          "width": 1500,
+          "height": 1964,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/34/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/34",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1964
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 69,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 35",
+          "width": 1500,
+          "height": 2001,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/35/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/35",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 2001
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 67,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 36",
+          "width": 1500,
+          "height": 1967,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/36/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/36",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1967
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 69,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 37",
+          "width": 1500,
+          "height": 2000,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/37/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/37",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 2000
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 68,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 38",
+          "width": 1500,
+          "height": 1970,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/38/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/38",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1970
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 69,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 39",
+          "width": 1500,
+          "height": 1993,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/39/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/39",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1993
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 68,
+            "height": 90,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 40",
+          "width": 1500,
+          "height": 1957,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/40/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/40",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1957
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 69,
+            "height": 90,
+            "format": "image/jpeg"
+          }
         }
       ]
     }
