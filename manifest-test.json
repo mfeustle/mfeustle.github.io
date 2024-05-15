@@ -2,7 +2,7 @@
   "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/manifest/",
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "label": "Bound volume of published sheet music",
+  "label": "Berge 3 - Bonum Est",
   "description": "Bound collection of published sheet music by Louis Bergé, inscribed by him to his son Edward with a date of December 26, 1909. Items in this work are published by Louis Bergé unless otherwise indicated. Where they are provided, dates on individual items range from 1859 through 1888.",
   "metadata": [
     {
@@ -292,7 +292,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/31/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 31",
+          "label": "Berge 3 - Bonum Est - 1",
           "width": 1500,
           "height": 2004,
           "images": [
@@ -336,7 +336,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/32/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 32",
+          "label": "Berge 3 - Bonum Est - 2",
           "width": 1500,
           "height": 1961,
           "images": [
@@ -380,7 +380,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/33/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 33",
+          "label": "Berge 3 - Bonum Est - 3",
           "width": 1500,
           "height": 2002,
           "images": [
@@ -424,7 +424,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/34/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 34",
+          "label": "Berge 3 - Bonum Est - 4",
           "width": 1500,
           "height": 1964,
           "images": [
@@ -468,7 +468,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/35/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 35",
+          "label": "Berge 3 - Bonum Est - 5",
           "width": 1500,
           "height": 2001,
           "images": [
@@ -512,7 +512,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/36/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 36",
+          "label": "Berge 3 - Bonum Est - 6",
           "width": 1500,
           "height": 1967,
           "images": [
@@ -556,7 +556,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/37/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 37",
+          "label": "Berge 3 - Bonum Est - 7",
           "width": 1500,
           "height": 2000,
           "images": [
@@ -600,7 +600,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/38/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 38",
+          "label": "Berge 3 - Bonum Est - 8",
           "width": 1500,
           "height": 1970,
           "images": [
@@ -644,7 +644,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/39/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 39",
+          "label": "Berge 3 - Bonum Est - 9",
           "width": 1500,
           "height": 1993,
           "images": [
@@ -688,7 +688,7 @@
         {
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc1942142/m1/40/canvas/",
           "@type": "sc:Canvas",
-          "label": "Image 40",
+          "label": "Berge 3 - Bonum Est - 10",
           "width": 1500,
           "height": 1957,
           "images": [
