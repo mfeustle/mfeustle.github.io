@@ -1,4 +1,6 @@
 {
+	{
+		{
           "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/canvas/",
           "@type": "sc:Canvas",
           "label": "Image 86",
@@ -129,3 +131,6 @@
             "height": 81,
             "format": "image/jpeg"
           }
+		}
+	}
+}	
