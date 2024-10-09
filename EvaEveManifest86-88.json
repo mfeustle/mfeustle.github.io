@@ -1,0 +1,131 @@
+{
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 86",
+          "width": 3000,
+          "height": 1852,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/86/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/86",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 926
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/86/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 120,
+            "height": 74,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 87",
+          "width": 3000,
+          "height": 2010,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/87/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/87",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1005
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/87/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 120,
+            "height": 80,
+            "format": "image/jpeg"
+          }
+        },
+        {
+          "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/canvas/",
+          "@type": "sc:Canvas",
+          "label": "Image 88",
+          "width": 3000,
+          "height": 2022,
+          "images": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/image/",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/88/full/max/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc2243691/m1/88",
+                  "@context": "http://iiif.io/api/presentation/2/context.json",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1500,
+                "height": 1011
+              },
+              "on": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/canvas/"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/annotations/",
+              "@type": "sc:AnnotationList"
+            },
+            {
+              "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/annotations/ocr/",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://digital.library.unt.edu/ark:/67531/metadc2243691/m1/88/thumbnail/",
+            "@type": "dctypes:Image",
+            "width": 120,
+            "height": 81,
+            "format": "image/jpeg"
+          }
